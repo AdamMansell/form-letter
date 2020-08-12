@@ -1,0 +1,11 @@
+#letter {
+  display: none;
+  margin-top: 40px;
+  padding: 5px;
+  background-color: rgb(255, 234, 176);
+  border: solid burlywood 5px;
+}
+
+.letterHeader, .letterBody {
+  font-family: cursive;
+}
